@@ -21,3 +21,14 @@ In simpler terms, an injection is a function where no two distinct elements of t
 One-to-one mapping: Each input value from the domain is mapped to a unique output value in the codomain.
 No shared outputs: No two different inputs can produce the same output.
 The term "injection" is synonymous with "one-to-one function."
+
+
+#### Surjections (onto function)
+
+#### Bijections (one-to-one correspondence)
+
+#### Composition
+
+#### Identity function
+
+### Floor and Ceiling Functions

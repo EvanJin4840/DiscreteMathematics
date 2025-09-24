@@ -9,8 +9,14 @@
 - a is called the real part. (실수 부분)
 - b is called the imaginary part. (허수 부분)
 
+* Membership Tables
+- A membership table (or truth table for sets) is a table that shows whether an element is a member of a given set expression. It uses 1 to represent "is a member" and 0 to represent "is not a member." It is a visual and systematic way to check if two set expressions are equivalent.
+
 ## Set operations
 
 * Intersection
 - the intersection of sets A and B {x|x E A ^ x E B}
-- If the intersection is empty, then A and B are said to be disjoint.
+- If the intersection is empty, then A and B are said to be disjoint (서로소).
+
+* Symmetric Difference
+- The Symmetric Difference of A and B, denoted by A (exclusive or symbol) B is the set (A-B) U (B-A)
