@@ -8,3 +8,9 @@
 * Complex Numbers (C) : A complex number is a number that can be expressed in the form a+bi, where a and b are real numbers, and i is the imaginary unit, defined as i^2=−1. (복소수)
 - a is called the real part. (실수 부분)
 - b is called the imaginary part. (허수 부분)
+
+## Set operations
+
+* Intersection
+- the intersection of sets A and B {x|x E A ^ x E B}
+- If the intersection is empty, then A and B are said to be disjoint.
