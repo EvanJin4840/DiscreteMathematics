@@ -20,3 +20,12 @@
 
 * Symmetric Difference
 - The Symmetric Difference of A and B, denoted by A (exclusive or symbol) B is the set (A-B) U (B-A)
+
+### Important Sets
+N = natural numbers = {0,1,2,3...} (or {1,2,3,...})
+Z = integers = {..., -3, -2, -1, 0, 1, 2, 3, ...}
+Z+ = positive integers = {1, 2, 3, ...}
+R = set of real numbers
+R+ = set of positive real numbers
+C = set of complex numbers.
+Q = set of rational numbers.
