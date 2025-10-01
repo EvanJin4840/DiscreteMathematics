@@ -25,7 +25,19 @@ The term "injection" is synonymous with "one-to-one function."
 
 #### Surjections (onto function)
 
+A function is a surjection if every possible output is actually reached.
+- Simple Rule: Nothing in the destination set is left out.
+- Analogy: If you are assigning people to chairs, a surjection means there are no empty chairs.
+
 #### Bijections (one-to-one correspondence)
+
+A function is a bijection if it creates a perfect, one-to-one pairing between two sets.
+- It must follow two rules at once:
+1. Injective: No two inputs go to the same output (no sharing).
+2. Surjective: Every output is reached (no one left out).
+
+- Simple Rule: It's a perfect match.
+- Why it's important: It proves that two sets have the exact same number of elements.
 
 #### Composition
 
