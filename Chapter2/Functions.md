@@ -12,6 +12,10 @@ Range (also called image): The set of all actual output values the function prod
 * Codomain
 - The set of all possible output values that the function is allowed to have by definition. It includes all values that the function could produce, whether or not they actually appear as outputs. The codomain is part of the definition of the function.
 
+* Cardinality (원소의 개수 또는 크기)
+- there are three different cardinality, countable, uncoutable, countably infinite
+- even if it is inifinite, sometimes it can be countable in one to one correspondance ??
+- don't think too much zinifinite number just accept it
 
 #### Injection 
 
@@ -44,3 +48,10 @@ A function is a bijection if it creates a perfect, one-to-one pairing between tw
 #### Identity function
 
 ### Floor and Ceiling Functions
+
+### Computablitiy
+- computable
+- uncomputalbe
+
+# matrix
+elementwise multiplication
