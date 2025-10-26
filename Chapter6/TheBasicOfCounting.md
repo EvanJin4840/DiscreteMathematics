@@ -1,0 +1,5 @@
+### Terms
+- product rule : A procedure can be broken down into a sequence of two tasks. There are n1ways to do the first task and n2 ways to do the second task. Then there are n1· n2ways to do the procedure.
+- Counting Function : Since a function represents a choice of one of the nelements of the codomain for each of the melements in the domain, the product rule tells us that there are n·n· · · n=nmsuch functions.
+- Counting One-to-One Functions : Suppose the elements in the domain are a1, a2,..., am. There are n ways to choose the value of a1 and n−1 ways to choose a2, etc. The product rule tells us that there are n(n−1)(n−2)···(n−m+1) such functions.
+- sum rule : If a task can be done either in one of n1ways or in one of n2ways, where none of the set ofn1ways is the same as any of the n2ways, then there are n1 +n2ways to do the task.
