@@ -33,7 +33,7 @@ A function is a surjection if every possible output is actually reached.
 - Simple Rule: Nothing in the destination set is left out.
 - Analogy: If you are assigning people to chairs, a surjection means there are no empty chairs.
 
-#### Bijections (one-to-one correspondence)
+#### Bijections (one-to-one correspondence and both one-to-one and onto)
 
 A function is a bijection if it creates a perfect, one-to-one pairing between two sets.
 - It must follow two rules at once:

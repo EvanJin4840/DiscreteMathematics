@@ -29,3 +29,7 @@ R = set of real numbers
 R+ = set of positive real numbers
 C = set of complex numbers.
 Q = set of rational numbers.
+
+### Recurrence Relations
+
+* solving Recurrence Relation
