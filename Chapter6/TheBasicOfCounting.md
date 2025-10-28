@@ -3,3 +3,5 @@
 - Counting Function : Since a function represents a choice of one of the nelements of the codomain for each of the melements in the domain, the product rule tells us that there are n·n· · · n=nmsuch functions.
 - Counting One-to-One Functions : Suppose the elements in the domain are a1, a2,..., am. There are n ways to choose the value of a1 and n−1 ways to choose a2, etc. The product rule tells us that there are n(n−1)(n−2)···(n−m+1) such functions.
 - sum rule : If a task can be done either in one of n1ways or in one of n2ways, where none of the set ofn1ways is the same as any of the n2ways, then there are n1 +n2ways to do the task.
+- Counting Subsets of a Finite Set : Use the product rule to show that the number of different subsets of a finite set S is 2^|S|.
+- Subtraction Rule : If a task can be done either in one of n1ways or in one of n2 ways, then the total number of ways to do the task is n1 + n2 minus the number of ways to do the task that are common to the two different ways.
