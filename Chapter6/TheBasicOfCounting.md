@@ -5,3 +5,7 @@
 - sum rule : If a task can be done either in one of n1ways or in one of n2ways, where none of the set ofn1ways is the same as any of the n2ways, then there are n1 +n2ways to do the task.
 - Counting Subsets of a Finite Set : Use the product rule to show that the number of different subsets of a finite set S is 2^|S|.
 - Subtraction Rule : If a task can be done either in one of n1ways or in one of n2 ways, then the total number of ways to do the task is n1 + n2 minus the number of ways to do the task that are common to the two different ways.
+
+### Monte Carlo Algorithm
+* Algorithms that make random choices at one or more steps are called probabilistic algorithms.
+- Monte Carlo algorithms are probabilistic algorithms used to answer decision problems, and always produce answers to problems. But a small probability remains that these answers may be incorrect
