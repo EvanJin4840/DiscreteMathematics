@@ -18,3 +18,15 @@
 - If a relates to b and b relates to a, then a and b must be identical.
 - Mutual relationships between distinct elements are forbidden
 - But (a->a) is allowed
+
+3. Irreflexive (비반사 관계)
+
+- No element is related to itself. The relation implies strictly distinct conections, so the main diagonal of the matrix contains only zeros.
+
+4. Reflexive and Symmetric(반사이면서 대칭적)
+
+- Every element is related to itself (Reflexive), and all relationships between elements are mutual (Symmetric).
+
+5. Niether Reflexive nor Irreflexive (반사도 아니고 비반사도 아님)
+
+- The relation is a mix: some elements relate to themselves, while others do not. It fails to be universally reflexive and also fails to be universally irreflexive.
