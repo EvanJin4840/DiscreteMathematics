@@ -11,3 +11,5 @@ An edge is said to connect its endpoints.
 - Two vertices 'u' and 'v' in an undirected graph G are called adjacent(or neighbors) in G if there is an edge 'e' between 'u' and 'v'. Such an edge 'e' is called incident with the vertices 'u' and 'v' and 'e' is said to connect 'u' and 'v'.
 
 - The set of all neighbors of a vertex vof G = (V, E), denoted by N(v), is called the neighborhood of v. If A is a subset of V, we denote by N(A) the set of all vertices in G that are adjacent to at least one vertex in A. So, 𝑁(𝐴)=U v∈𝐴 𝑁(𝑣).
+
+- The degree of a vertex in an undirected graph is the number of edges incident with it, except that a loop at a vertex contributes twice to the degree of that vertex. The degree of the vertex 'v' is denoted by deg(v).
