@@ -13,3 +13,10 @@ An edge is said to connect its endpoints.
 - The set of all neighbors of a vertex vof G = (V, E), denoted by N(v), is called the neighborhood of v. If A is a subset of V, we denote by N(A) the set of all vertices in G that are adjacent to at least one vertex in A. So, 𝑁(𝐴)=U v∈𝐴 𝑁(𝑣).
 
 - The degree of a vertex in an undirected graph is the number of edges incident with it, except that a loop at a vertex contributes twice to the degree of that vertex. The degree of the vertex 'v' is denoted by deg(v).
+
+##### Bipartite Graph
+
+- A Bipartite Graph is a graph whose vertices can be divided into two disjoint and independent sets, $U$ and $V$, such that every edge connects a vertex in $U$ to one in $V$.
+
+- In other words, no edge connects vertices within the same set.
+- A graph is bipartite if and only if it is 2-colorable.
